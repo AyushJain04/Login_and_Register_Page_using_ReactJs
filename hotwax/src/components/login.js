@@ -4,7 +4,7 @@ import React, { Component } from "react";
 export default class Login extends Component {
     render() {
         return (
-            <form>
+            <form class="abc" action="https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home" method="Post" id="my_form">
                 <h3>Login</h3>
 
                 <div className="form-group">
